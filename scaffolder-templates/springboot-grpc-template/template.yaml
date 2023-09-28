@@ -28,7 +28,7 @@ spec:
           title: Java Package Name
           type: string
           description: Name for the java package. eg (io.backstage.blah)
-          default: prefix-
+          default: 'prefix-'
         description:
           title: Description
           type: string
